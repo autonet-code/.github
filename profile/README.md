@@ -3,6 +3,8 @@
 **Decentralized AI training and inference.**
 
 An intelligence-based financial system. A framework for a peaceful and orderly transition of responsibilities from humans to machines.
+Recursive Principial Body with self-referencing and self-maintaning governance, economic, and judicial mechanisms.
+
 
 ---
 

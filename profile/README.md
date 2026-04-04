@@ -24,4 +24,4 @@ Legal and governance framework for autonomous entities. Integrates with Autonet 
 |------|-------------|------|
 | **autonet.computer** | Distributed agent orchestration framework | [autonet.computer](https://autonet.computer) |
 | **werule.io** | Governance Framework (based on OpenZepellin's Governor) | [werule.io](https://werule.io) |
-| **trustless.business** | Governance Framework (based on OpenZepellin's Governor) | [trustless.business](https://trustless.business) |
+| **trustless.business** | Decentralized Dispute Resolution (Justice Framework) | [trustless.business](https://trustless.business) |

@@ -1,4 +1,4 @@
-# Autonet
+# Autonet is live on testnet
 
 **Decentralized AI training and inference.**
 

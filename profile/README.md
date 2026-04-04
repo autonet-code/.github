@@ -20,7 +20,7 @@ Legal and governance framework for autonomous entities. Integrates with Autonet 
 
 ## Applications
 
-| Node | Description | Link |
+| Name | Description | Link |
 |------|-------------|------|
 | **autonet.computer** | Distributed agent orchestration framework | [autonet.computer](https://autonet.computer) |
 | **werule.io** | Governance Framework (based on OpenZepellin's Governor) | [werule.io](https://werule.io) |
